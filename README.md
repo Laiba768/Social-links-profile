@@ -12,7 +12,7 @@ A social links profile card from Frontend Mentor where users can share all their
 ![Mobile View](screenshots/mobile.PNG)
 
 ## Links
-- Live Site URL: [Add your live site URL here]
+- Live Site URL: [sociallinksprofile8654000.netlify.app]
 - Solution URL: [https://github.com/Laiba768/Social-links-profile]
 
 ## Built with
